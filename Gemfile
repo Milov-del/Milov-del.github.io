@@ -22,3 +22,5 @@ gem "jekyll-feed"
 gem "sass-embedded", "~> 1.63.0"
 
 gem "google-protobuf", "~> 3.25.8" 
+
+gem "github-pages", group: jekyll_plugins
