@@ -29,7 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
+cayman: 
+   theme_color: "dark-blue"
 
 baseurl: ""  # Si ton site est à la racine du domaine
 url: "https://ton-domaine.com"  # Remplace par ton URL
